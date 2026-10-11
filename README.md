@@ -1,6 +1,6 @@
 # manvaye.demo
 This is my very first git
 <br>
-author manvaye
+author manvaye hegde
 <br>
 this world 
